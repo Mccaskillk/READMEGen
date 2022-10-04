@@ -1,5 +1,22 @@
 {
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "inquirer": "^9.1.2"
-  }
+    "inquirer": "^6.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mccaskillk/READMEGen"
+  },
+  "bugs": {
+    "url": "https://github.com/Mccaskillk/READMEGen/issues"
+  },
+  "homepage": "https://github.com/Mccaskillk/READMEGen#readme"
 }
